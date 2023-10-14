@@ -10,8 +10,16 @@ header {
 h2 {
     background-color: antiquewhite;
     color: black;
+    text-align: center;
 }
 h3 {
     background-color: antiquewhite;
     color: black;
+    text-align: center;
+}
+img {
+    width: 600px;
+    height: 300px;
+    border-style: dotted;
+    border-color: antiquewhite;
 }
